@@ -1,8 +1,8 @@
-package com.clairvoyant.controller;
+package com.imti.controller;
 
-import com.clairvoyant.exception.CarNotFoundException;
-import com.clairvoyant.model.Car;
-import com.clairvoyant.service.CarService;
+import com.imti.exception.CarNotFoundException;
+import com.imti.model.Car;
+import com.imti.service.CarService;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.junit.Test;
 import org.junit.runner.RunWith;

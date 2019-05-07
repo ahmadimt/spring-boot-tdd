@@ -1,4 +1,4 @@
-package com.clairvoyant.model;
+package com.imti.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

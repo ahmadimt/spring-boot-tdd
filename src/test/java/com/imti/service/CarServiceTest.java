@@ -1,8 +1,8 @@
-package com.clairvoyant.service;
+package com.imti.service;
 
-import com.clairvoyant.exception.CarNotFoundException;
-import com.clairvoyant.model.Car;
-import com.clairvoyant.repo.CarRepository;
+import com.imti.exception.CarNotFoundException;
+import com.imti.model.Car;
+import com.imti.repo.CarRepository;
 import org.assertj.core.api.Assertions;
 import org.junit.Test;
 import org.junit.runner.RunWith;

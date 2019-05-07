@@ -1,6 +1,6 @@
-package com.clairvoyant.service;
+package com.imti.service;
 
-import com.clairvoyant.model.Car;
+import com.imti.model.Car;
 
 /**
  * created by imteyaza-1lm on 2019-05-06

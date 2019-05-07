@@ -1,6 +1,6 @@
-package com.clairvoyant;
+package com.imti;
 
-import com.clairvoyant.model.Car;
+import com.imti.model.Car;
 import org.assertj.core.api.Assertions;
 import org.junit.Test;
 import org.junit.runner.RunWith;

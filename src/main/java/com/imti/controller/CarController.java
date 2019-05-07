@@ -1,8 +1,8 @@
-package com.clairvoyant.controller;
+package com.imti.controller;
 
-import com.clairvoyant.exception.CarNotFoundException;
-import com.clairvoyant.model.Car;
-import com.clairvoyant.service.CarService;
+import com.imti.exception.CarNotFoundException;
+import com.imti.model.Car;
+import com.imti.service.CarService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;

@@ -1,4 +1,4 @@
-package com.clairvoyant.exception;
+package com.imti.exception;
 
 /**
  * created by imteyaza-1lm on 2019-05-06
